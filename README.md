@@ -1,4 +1,6 @@
-# Losa API Typescript + ESLint
+![Backend](https://socialify.git.ci/kiradeveloper/Backend/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
+
+# 3D Fighting Game Backend API with Typescript + ESLint
 
 A brief description of the project and its purpose, including any relevant background information.
 
